@@ -197,8 +197,8 @@ npm run dev
 ## 👨‍💻 Author
 
 **Om Bhosale**
-CSE | Full Stack & DevOps Engineer
-Google Developer Groups Lead
+CSE | Java Full Stack & DevOps Engineer
+
 
 ---
 
